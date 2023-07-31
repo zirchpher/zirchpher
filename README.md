@@ -39,7 +39,7 @@ class WhoAmI {
 
   getAmbitions() {
     return {
-      "I want to be a": "a fullstack developer",
+      "I'm going to be a": "a Fullstack Developer",
       "Speak fluently": "Japanese",
       "Connect More People": "With Internet",
     };
