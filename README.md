@@ -1,14 +1,13 @@
-## Hey, Remix here
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, Remix here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<div style="text-align: right">I firmly believe that self-education is the only kind of education that exists. </div>
+<div style="text-align: right">“Self-education is, I firmly believe, the only kind of education there is.”</div>
 
 ## :computer: Technologies I Love
-* Frontend and Backend Web Development
+* Frontend and Backend Web Development (Currently Studying for Frontend)
 * Mobile Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zirchpher&layout=compact">
@@ -23,7 +22,7 @@
  ```TypeScript
 class WhoAmI {
   constructor(
-    public user: string = "Remix Zapata",
+    public user = "Remix Zapata",
     public currentWork = "Writing code",
     public hobbies = [
       "Watching One Piece",
